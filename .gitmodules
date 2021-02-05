@@ -1,0 +1,6 @@
+[submodule "pybithumb"]
+	path = pybithumb
+	url = https://github.com/hyeon95y/pybithumb
+[submodule "assets/pybithumb"]
+	path = assets/pybithumb
+	url = https://github.com/hyeon95y/pybithumb
